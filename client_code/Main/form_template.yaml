@@ -137,7 +137,7 @@ components:
           tooltip: select site
         type: DropDown
       - event_bindings: {change: site_summary_change}
-        layout_properties: {width: 145.44739697265624}
+        layout_properties: {width: 155.77131298828124}
         name: site_summary
         properties:
           font_size: 13
@@ -294,7 +294,7 @@ components:
       type: ColumnPanel
     layout_properties: {full_width_row: true, grid_position: 'XRHQDB,TSHPZF'}
     name: menu_top
-    properties: {background: 'theme:Primary', col_widths: '{"LPGJNI":35,"SCFEUE":25}'}
+    properties: {background: 'theme:Primary', col_widths: '{"LPGJNI":30,"SCFEUE":30}'}
     type: ColumnPanel
   - components:
     - components:
